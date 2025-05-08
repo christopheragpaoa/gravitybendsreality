@@ -96,7 +96,6 @@ Data Classifications:
 -Public: Safe to disclose (e.g., website).
 -Internal: Non-sensitive (e.g., schedules).
 -Confidential: Sensitive data (e.g., PII, credentials).
-<p style="color: red;"><strong>Confidential data must be encrypted at rest and in transit.</strong></p>
 
 ## Incident Response Plan
 F.A.S.T. Framework
