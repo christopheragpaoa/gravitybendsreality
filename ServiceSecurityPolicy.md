@@ -44,15 +44,6 @@ This policy applies to:
 | **Users**           | Follow policy, report issues            |
 | **IT Consultant**   | Provide technical guidance and audits   |
 
-th, td {
-  border: 1px solid #dddddd;
-  text-align: left;
-  padding: 8px;
-}
-th {
-  background-color: #f2f2f2;
-}
-</style>
 
 ---
 
