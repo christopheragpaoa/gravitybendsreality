@@ -44,11 +44,6 @@ This policy applies to:
 | **Users**           | Follow policy, report issues            |
 | **IT Consultant**   | Provide technical guidance and audits   |
 
-<style>
-table {
-  border-collapse: collapse;
-  width: 100%;
-}
 th, td {
   border: 1px solid #dddddd;
   text-align: left;
